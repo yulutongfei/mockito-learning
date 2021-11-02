@@ -1,5 +1,8 @@
-package com.sunxu.mockito;
+package com.sunxu.mockito.quickstart;
 
+import com.sunxu.mockito.Account;
+import com.sunxu.mockito.AccountDao;
+import com.sunxu.mockito.AccountLoginController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
